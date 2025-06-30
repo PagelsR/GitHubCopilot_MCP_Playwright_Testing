@@ -1,5 +1,6 @@
 Generate a Playwright test script named "Shop by Type.spec.ts" and save to the "/tests" folder for the following test scenario:
 
+- Open the browser and navigate to the QA environment.
 - Navigate to https://app-6swivue3g4dqc-qa.azurewebsites.net/
 
 ## Shop by Brand
